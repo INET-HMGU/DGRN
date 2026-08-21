@@ -21,3 +21,17 @@ This repository contains the analytical codebase, visualization pipelines and ne
 
 `Genome Motif analysis/Genome-wide-promoter-parsing.ipynb`
 - A notebook that retrieves, processes and normalizes whole-genome sequence assemblies and structural GFF3 annotations directly from Ensembl Plants and NCBI repositories.
+
+## Citation
+
+```bibtex
+@article{Pandiarajan2025GRN,
+  author  = {Pandiarajan, Ramakrishnan and Lin, Chung-Wen and Sauer, M. and Rothballer, S. T. and Marin-de la Rosa, N. and Schwehn, Patrick and Papadopoulou, E. and Mairhormann, B. and Falter-Braun, Pascal},
+  title   = {Comparative gene regulatory network mapping of Brassicaceae members with differential drought tolerance},
+  journal = {bioRxiv},
+  year    = {2025},
+  doi     = {10.1101/2025.08.24.668636},
+  url     = {https://www.biorxiv.org/content/10.1101/2025.08.24.668636v1},
+  note    = {Preprint}
+}
+```
